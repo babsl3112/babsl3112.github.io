@@ -1,0 +1,9 @@
+.logo {
+    filter: invert(1);
+    max-width: 100%;
+    width: 500px;
+}
+
+.inner {
+    display: flex;
+}
