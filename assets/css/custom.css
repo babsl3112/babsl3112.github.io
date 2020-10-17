@@ -2,8 +2,13 @@
     filter: invert(1);
     max-width: 100%;
     width: 500px;
+    transition-duration: 0.1s;
 }
 
 .inner {
     display: flex;
+}
+
+.perspective {
+    perspective: 500px;
 }
